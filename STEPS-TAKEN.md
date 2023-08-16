@@ -4,11 +4,5 @@
 ## Log in
 
  1. component from codepen.io
- 2. need to add authentication
-    - https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
-    - add routing
-    
-
-
-docker ps -a 
-docker exec -it 314b bash
+ 2. authentication
+    - [bencrypt and jwt guide](https://www.bezkoder.com/node-js-jwt-authentication-postgresql/)
